@@ -31,7 +31,6 @@
       }
   ],
   "family": "docker-node-app",
-  "networkMode": "awsvpc",
   "revision": 1,
   "volumes": [],
   "status": "ACTIVE",
