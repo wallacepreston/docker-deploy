@@ -56,7 +56,7 @@
   "requiresCompatibilities": [
       "EC2"
   ],
-  "cpu": "1024",
+  "cpu": "10",
   "memory": "300",
   "registeredAt": "2021-12-30T07:24:37.584Z",
   "registeredBy": "arn:aws:iam::031591350011:user/Administrator",
