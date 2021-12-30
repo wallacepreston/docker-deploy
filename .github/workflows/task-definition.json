@@ -31,6 +31,7 @@
       }
   ],
   "family": "docker-node-app",
+  "networkMode": "host",
   "revision": 1,
   "volumes": [],
   "status": "ACTIVE",
